@@ -1,2 +1,4 @@
-# app-dev
-My first Repository
+1. Loki
+2. Dr. Strange
+3. Marvel
+4. Dead pool
